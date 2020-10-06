@@ -28,7 +28,7 @@ COPY docker/entrypoint.sh /
 
 # Prepare environment variabiles defaults
 
-ENV TITLE=speedtest-v2
+ENV TITLE=speedtest-v3
 ENV MODE=standalone
 ENV PASSWORD=password
 ENV TELEMETRY=false
